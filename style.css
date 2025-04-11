@@ -92,7 +92,7 @@ a:hover::after {
 .hero {
     height: 80vh;
 background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), 
-    url('/assets/hero.avif')  center/cover no-repeat;
+    url('./assets/hero.avif')  center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
